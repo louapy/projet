@@ -1,0 +1,13 @@
+
+afficher des petits messages comme quoi ca a été fais, NOPE 
+maybe redirect vers the relevant page after un modif ou delete ou add yep, NOPE
+
+
+onselected the js DONE
+rememeber that categroie or theme can be with a space in the json and yet we see in the url ice_cream for example (sometimes there's no space and it really is _ inside)
+(above) seems like this aint a problem cause i retrieve stuff from json and wether it's ice cream and ice_cream stocked in there they all get turned to ice_cream so it's all good.
+
+
+prendre en compte les mistakes, im looking
+sanitize user input, les latitudes et longitudes doivent etre des nombres? ehhhhhhhhh but its a string so 
+ewwww is a number function in python et si c bon c bon? 
